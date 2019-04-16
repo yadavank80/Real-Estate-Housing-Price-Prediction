@@ -1,6 +1,12 @@
 # Real-Estate-Housing-Price-Prediction
 Analysis and model of House price prediction on real life dataset using Machine Learning algorithms.
 
+I've divided the project into 4 parts:  
+• **1. Exploratory Data Analysis**  
+• **2. Data Cleaning**  
+• **3. Feature Engineering**(if there's scope for doing so in the data)  
+• **4. Model Training and Evaluation**  
+  
 ## Dataset Description
 
 Target variable:  
